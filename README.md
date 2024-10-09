@@ -194,5 +194,5 @@ To create new user, enter the following URL: http://127.0.0.1:8000/api/users/
 
 Select the **POST** method and click **Send**.
 
-You should see a the 201 status i green color in the response.
+You should see a the 201 status in green color in the response.
 ---
